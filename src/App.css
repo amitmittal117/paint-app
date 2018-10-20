@@ -1,0 +1,40 @@
+body {
+  font-family: 'Roboto Condensed', serif;
+}
+.main {
+  display: flex;
+  justify-content: center;
+}
+.color-guide {
+  margin: 20px 40px;
+}
+h5 {
+  margin-bottom: 10px; 
+}
+.user {
+  background: #4caf50;
+  color: white;
+  padding: 7px 15px;
+  border-radius: 4px;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+.Black {
+  background: #9e9e9e;
+  color: white;
+}
+.Green {
+  background: #f44336;
+  color: white;
+}
+.Purple {
+  background: #9c27b0;
+  color: white;
+}
+a {
+    /*position: absolute;*/
+    background: #69c;
+    color: #fff;
+    padding: 5px 10px;
+}
